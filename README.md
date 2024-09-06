@@ -17,7 +17,9 @@
      git pull
      python3 run2.py
   ```
-    
+### Donasi Ke Admin 
+083862287464 -dana
+083192756239 -pulsa 
 ### Jalan Script Ini 
    ```
      pkg update && upgrade
